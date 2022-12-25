@@ -1,1 +1,1 @@
-Ссылка на изображение архитектуры - [Architecture for this project](docs/diagram.drawio.png)
+Ссылка на изображение архитектуры - [Architecture for this project](diagram.drawio.png)
