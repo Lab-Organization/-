@@ -15,3 +15,5 @@
 ## Текущие процессы на проекте
 
 ![alt text](https://github.com/Lab-Organization/Who-wants-to-be-a-millionaire/blob/main/docs/Scrum.png?raw=true)
+
+## [Процесс работы команды](https://github.com/Lab-Organization/Who-wants-to-be-a-millionaire/blob/main/docs/team.md)
