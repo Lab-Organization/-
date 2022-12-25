@@ -16,6 +16,10 @@
 
 ![alt text](https://github.com/Lab-Organization/Who-wants-to-be-a-millionaire/blob/main/docs/Scrum.png?raw=true)
 
+## Insights график
+
+![This is an image](docs/chart.png)
+
 ## План разработки
 
 ![This is an image](docs/gantt.png)
