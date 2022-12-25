@@ -5,7 +5,7 @@
 
 ## Пример игры
 
-![This is an image](https://cdn.discordapp.com/attachments/866271505695506472/1056592840127434852/image.png)
+![This is an image](docs/diagram.drawio.png)
 
 ## Архитектура
 Проект разработан на C++. Вопросы создаются заранее и выбираются случайным образом во время игры.
