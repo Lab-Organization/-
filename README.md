@@ -14,4 +14,4 @@
 
 ## Текущие процессы на проекте
 
-![This is an image](docs/process.md)
+!(docs/process.md)
